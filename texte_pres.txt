@@ -1,0 +1,61 @@
+1 - Bonjour, ...
+
+2 - Ce projet est réalisé pour Fashion-Insta, une entreprise du monde de la mode qui commercialise des articles vestimentaires.
+Elle possède un réseau de magasins physiques, ansi qu'un site de e-commerce.
+
+3 - [Lire]
+L'idée de ce projet est d'offrir une expérience intéractive et ludique aux clients. C'est une application qui peut se découvrir entre amis et qui peut donc participer à améliorer l'image de marque de Fashion-Insta.
+
+4 - Pour motiver le choix d'une application mobile comme support pour ce projet, voici quelques statistiques sur leur utilisation ces dernières années: 
+[Lire]
+Ces statistiques démontrent que l'application mobile est un support moderne et compétitif, qui sera parfaitement adapté pour ce projet.
+
+5 - [lire et expliquer]
+Au delà du bénéfice financier attendu, il faut quand même garder en tête que l'application aura très certainement un impact positif sur l'image de Fashion-Insta, ce qqui est également une retombée positive à considérer.
+
+6 - Au niveau des ressources humaines, j'ai identifié trois profils pour ce projet.
+[lire]
+Je n'ai pas jugé utile d'allouer d'autres emplois spécifiques, comme un scrum-master par exemple, car le projet est relativement petit. La gestion des méthodes de production est donc gérable par le Product Owner à cette échelle.
+
+7 - [lire]
+Les raisons pour appliquer une majoration des coûts importante sont multiples:
+Les temps de travail prévu peuvent avoir été sous-estimés, et éventuellement il pourra être envisageable de préférer un candidat très qualifié avec de plus hautes prétentions salariales.
+
+8 - [lire et expliquer]
+
+9 - Les méthodes Agile sont des ensembles de pratiques de travail qui mettent en avant la collaboration au sein des équipes et entre les équipes et les clients.
+Elles s'appuient sur l'utilisation d'un cadre méthodologique léger et centré sur la communication.
+Les méthodes agiles reposent sur quatres grandes valeurs:
+[lire]
+
+10 - Il existe 12 principes principaux communs à toutes les méthodes agile. J'en ai rappelé la moitié ici. 
+Ce sont ceux qui s'appliquent le mieux à notre cas, puisqu'on développe le produit en interne donc on a pas certains aspects de la communication client qu'on pourrait avoir avec un client externe.
+[lire]
+
+11 - La méthode Agile la plus populaire est la méthode scrum.
+Scrum s'appuie sur le découpage d'un projet en sprints. Les sprints peuvent durer entre quelques heures et un mois, mais plutôt de l'ordre de deux semaines en moyenne.
+Chaque sprint commence par une estimation et une planification opérationnelle, et se termine par une démonstration des fonctionnalités implémentées.
+Avant de démarrer un nouveau sprint, l'équipe réalise une rétrospective. Ca lui sert notamment à faire un bilan du sprint passé et à améliorer ses pratiques.
+Chaque matin, l'équipe effectue un stand-up meeting, c'est à dire qu'elle se réuni brièvement pour faire le point sur les tâches à l'ordre du jour.
+En plus des développeurs, l'équipe comporte un Product Owner et un Scrum Master.
+Le Product Owner est chargé de la vision produit, c'est lui qui doit comprendre et transmettre le besoin du client, en élaborant des user story. Il transmet aussi les éventuels retours des développeurs.
+Le Scrum Master est la personne responsable de la bonne application de la méthodologie agile au projet.
+
+12/15 - Les user story sont des phrases simples permettant de définir précisément le contenu d'une fonctionnalité à développer, du point de vue de l'utilisateur.
+Un objectif à court terme dans le projet est d'obtenir un produit minimum viable, ou MVP. Le degré de priorité d'une user story est donc accordé en fonction de si elle est indispensable au MVP ou pas.
+[lire et expliquer]
+
+16 - [lire et expliquer]
+Une autre exigence lorsqu'on traite des données sensibles est de réaliser une analyse d'impact.
+La CNIL fournit un outil qui permet à un rédacteur de mettre en forme l'analyse, et à un validateur de discuter certains points avant la validation.
+L'objectif de cette analyse est de bien encadrer l'usage des données personnelles et d'avoir un cadre de gestion des risques liés aux données qui soit bien défini.
+Dans ce type de projet, il faut également déclarer un DPO, un délégué à la protection des données, qui assumera la responsabilité juridique relative au traitement des données personnelles.
+
+17/19 - [lire et expliquer]
+
+20 - En conclusion, je dirai que les motivations qui poussent à lancer ce projet sont suffisantes.
+Le financement du projet n'est pas exorbitant, pour des bénéfices espérés qui sont corrects. S'ajoute à ça le fait qu'avec un service ludique et intéractif, l'entreprise à de bonnes chances de voir sa popularité augmenter.
+L'application mobile semble être un support porteur, au vu de ses statistiques d'utilisation. Les méthodes de travail agile sembles elles aussi très adaptées à ce type de projet.
+Il s'agit tout de même d'un projet qui demandera un suivi rigoureux,
+que ce soit du point de vue du respect du besoin ou de l'aspect délicat du traitement des données personnelles, avec notamment un certain nombre de contraintes légales et éthiques qu'il faudra veiller à respecter.
+
