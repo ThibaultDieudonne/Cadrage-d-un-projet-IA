@@ -1,7 +1,7 @@
 1 - Bonjour, ...
 
-2 - Ce projet est réalisé pour Fashion-Insta, une entreprise du monde de la mode qui commercialise des articles vestimentaires.
-Elle possède un réseau de magasins physiques, ansi qu'un site de e-commerce.
+2 - Ce projet est réalisé pour Fashion-Insta, qui est une entreprise du monde de la mode qui commercialise des articles vestimentaires.
+Cette entreprise possède un réseau de magasins physiques, ansi qu'un site de e-commerce.
 
 3 - [Lire]
 L'idée de ce projet est d'offrir une expérience intéractive et ludique aux clients. C'est une application qui peut se découvrir entre amis et qui peut donc participer à améliorer l'image de marque de Fashion-Insta.
@@ -11,7 +11,7 @@ L'idée de ce projet est d'offrir une expérience intéractive et ludique aux cl
 Ces statistiques démontrent que l'application mobile est un support moderne et compétitif, qui sera parfaitement adapté pour ce projet.
 
 5 - [lire et expliquer]
-Au delà du bénéfice financier attendu, il faut quand même garder en tête que l'application aura très certainement un impact positif sur l'image de Fashion-Insta, ce qqui est également une retombée positive à considérer.
+Au delà du bénéfice financier attendu, il faut quand même garder en tête que l'application aura très certainement un impact positif sur l'image de Fashion-Insta, ce qui est également une retombée positive à considérer.
 
 6 - Au niveau des ressources humaines, j'ai identifié trois profils pour ce projet.
 [lire]
@@ -41,13 +41,19 @@ En plus des développeurs, l'équipe comporte un Product Owner et un Scrum Maste
 Le Product Owner est chargé de la vision produit, c'est lui qui doit comprendre et transmettre le besoin du client, en élaborant des user story. Il transmet aussi les éventuels retours des développeurs.
 Le Scrum Master est la personne responsable de la bonne application de la méthodologie agile au projet.
 
-12/15 - Les user story sont des phrases simples permettant de définir précisément le contenu d'une fonctionnalité à développer, du point de vue de l'utilisateur.
+12/13 - Les user story sont des phrases simples permettant de définir précisément le contenu d'une fonctionnalité à développer, du point de vue de l'utilisateur.
 Un objectif à court terme dans le projet est d'obtenir un produit minimum viable, ou MVP. Le degré de priorité d'une user story est donc accordé en fonction de si elle est indispensable au MVP ou pas.
+[lire et expliquer]
+
+14/15 - Il était demandé d'identifier les risques principaux du projet. On associe à chaque risque une note de gravité entrer 1 et 5, 1 représentant un risque de gravité minime et 5 un risque qui compromettrait directement le projet.
+La probabilité de voir le risque se concrétiser est elle aussi exprimée sous la forme d'une note de 1 à 5. La mesure principale du risque est sa criticité, qui est le produit de la note de gravité et de probabilité.
+Avec ce modèle de notes sur 5, on considère un risque comme trop important quand sa criticité dépasse 15 ou 16. Pour modérer la gravité ou la probabilité d'un risque, des actions en prévention et en réparation sont prévues.
+Les actions en préventions visent à empêcher que les risques se réalisent, et les actions en réparation servent à réduire l'impact des risques qui se réalisent.
 [lire et expliquer]
 
 16 - [lire et expliquer]
 Une autre exigence lorsqu'on traite des données sensibles est de réaliser une analyse d'impact.
-La CNIL fournit un outil qui permet à un rédacteur de mettre en forme l'analyse, et à un validateur de discuter certains points avant la validation.
+La CNIL fournit un outil qui permet à un rédacteur de mettre en forme l'analyse, et à un validateur de discuter certains points avant de valider l'analyse.
 L'objectif de cette analyse est de bien encadrer l'usage des données personnelles et d'avoir un cadre de gestion des risques liés aux données qui soit bien défini.
 Dans ce type de projet, il faut également déclarer un DPO, un délégué à la protection des données, qui assumera la responsabilité juridique relative au traitement des données personnelles.
 
@@ -55,7 +61,7 @@ Dans ce type de projet, il faut également déclarer un DPO, un délégué à la
 
 20 - En conclusion, je dirai que les motivations qui poussent à lancer ce projet sont suffisantes.
 Le financement du projet n'est pas exorbitant, pour des bénéfices espérés qui sont corrects. S'ajoute à ça le fait qu'avec un service ludique et intéractif, l'entreprise à de bonnes chances de voir sa popularité augmenter.
-L'application mobile semble être un support porteur, au vu de ses statistiques d'utilisation. Les méthodes de travail agile sembles elles aussi très adaptées à ce type de projet.
+De plus, l'application mobile semble être un support porteur, au vu de ses statistiques d'utilisation. Les méthodes de travail agile semblent elles aussi très adaptées à ce type de projet.
 Il s'agit tout de même d'un projet qui demandera un suivi rigoureux,
-que ce soit du point de vue du respect du besoin ou de l'aspect délicat du traitement des données personnelles, avec notamment un certain nombre de contraintes légales et éthiques qu'il faudra veiller à respecter.
+que ce soit du point de vue du respect du besoin ou de l'aspect assez délicat du traitement des données personnelles, avec notamment un certain nombre de contraintes légales et éthiques qu'il faudra veiller à bien respecter.
 
